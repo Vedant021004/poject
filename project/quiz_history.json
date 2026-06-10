@@ -8,5 +8,15 @@
     "log": [
       "CORRECT"
     ]
+  },
+  {
+    "timestamp": "2026-06-10 16:32:36",
+    "score": 0,
+    "total": 1,
+    "percentage": 0.0,
+    "grade": "F",
+    "log": [
+      "WRONG"
+    ]
   }
 ]
