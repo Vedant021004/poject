@@ -28,5 +28,15 @@
     "log": [
       "CORRECT"
     ]
+  },
+  {
+    "timestamp": "2026-06-10 16:44:12",
+    "score": 0,
+    "total": 1,
+    "percentage": 0.0,
+    "grade": "F",
+    "log": [
+      "WRONG"
+    ]
   }
 ]
